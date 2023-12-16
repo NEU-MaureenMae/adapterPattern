@@ -1,0 +1,3 @@
+interface Refrigerator {
+    void startCooling();
+}
