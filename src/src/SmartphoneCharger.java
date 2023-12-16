@@ -1,0 +1,3 @@
+interface SmartphoneCharger {
+    void chargePhone();
+}
