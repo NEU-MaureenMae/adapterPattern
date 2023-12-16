@@ -1,0 +1,3 @@
+interface PowerOutlet {
+    void plugIn();
+}
