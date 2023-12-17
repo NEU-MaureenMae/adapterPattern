@@ -14,3 +14,4 @@ Adapter Objects:
 - LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge().
 - RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling().
 - SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
+![adapterPattern](https://github.com/NEU-MaureenMae/adapterPattern/assets/142388792/1b548aac-441f-4976-9e71-898d4a4bb05a)
